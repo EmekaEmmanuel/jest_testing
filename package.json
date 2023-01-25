@@ -1,0 +1,22 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "Units tests for a JavaScript app using Arrange, Act &amp; Assert (AAA) pattern and Test Driven Development approach.",
+  "main": "test1.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmekaEmmanuel/jest_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmekaEmmanuel/jest_testing/issues"
+  },
+  "homepage": "https://github.com/EmekaEmmanuel/jest_testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
